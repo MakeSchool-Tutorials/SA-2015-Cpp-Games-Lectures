@@ -11,19 +11,25 @@ The best testers are people that have never seen your app, and that don't know y
 
 You can download the slides [here](https://s3.amazonaws.com/mgwu-misc/SA2015/LectureSlides/User+Testing.pdf).
 
-Here are some notes from the lecture:
+#Lecture Notes
+
+##What is User Testing?
 
 * User testing is using your app with the intent of learning about it.
 
-* There are two kinds of testing. To learn about user behavior and testing  to find bugs and find the limits of your app. How you test changes depending on your goal, so make sure you know what you’re information you’re looking to gain before you begin.
+* There are two kinds of testing. 1. To learn about user behavior. 2. Testing to find bugs and find the limits of your app. How you test changes depending on your goal, so make sure you know what you’re information you’re looking to gain before you begin.
 
 * Testing for user behavior is about looking for what users struggle with, enjoy, and most importantly what they *do* when simply given your app. 
+
+##Do Not Interfere
 
 * When looking for user behavior, you *must not interfere*. When a user picks up your app you won’t be there to help them figure things out, so you must not talk to or help your play tester in order to get a realistic testing session.
 
 * It’s worth mentioning again that you *must not* talk to your test user. It will be incredibly difficult to resist talking to your user if you see them struggle and they are asking you questions for help. You must not do this. 
 
 * Okay okay, there is one time you should talk to your tester. That’s if they’ve been stuck for an extended period of time and are about ready to give up, but you want to test content past the point they are stuck at. You have failed. Make note of where the user got stuck, fix it later. Tell the user only what they need to know, and let them continue testing. Remember though that the information you gain past this point is tainted, and treat it accordingly. 
+
+##Testing your Own App
 
 * You are your worst test user. You know more about your app than anyone else will, and you’re also more invested in your app than anyone else. For games, if you think your game is at the right difficulty, your game is probably at least twice as hard as it should be. 
 
@@ -32,6 +38,8 @@ Here are some notes from the lecture:
 * Stress test your app. Tap buttons a million times, use multiple inputs at once, go through pages in orders users never should. Use the most extreme strategies and use cases you can think of. Find your apps limits.
 
 * Explore every part of your app. If you have a game with 500 levels, you should have payed every single one of them. You should be able to tell me how to get from anywhere in your app to any other place in your game off the top of your head from memory while sleep deprived. 
+
+##Who Should Test?
 
 * So who should you chose to test your app?
 	* Important factors when choosing a tester are their age, your target audience, how well you know them, and their experience.
@@ -45,6 +53,8 @@ Here are some notes from the lecture:
 * Your friends and family are probably not going to tell you your app is a mess. Strangers won’t let your relationship with them cloud their opinion of your app, and therefore make the best testers.
 
 * Ultimately, you won’t always be able to find perfect testers. You need to keep in mind what bias your play tester may have, and weight their feedback accordingly.
+
+##User Feedback
 
 * Users may ask for a faster horse when they really want a car. This doesn’t mean disregard feedback, it just means look for what the root of their feedback is.
 
