@@ -11,6 +11,8 @@ The best testers are people that have never seen your app, and that don't know y
 
 You can download the slides [here](https://s3.amazonaws.com/mgwu-misc/SA2015/LectureSlides/User+Testing.pdf).
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jDtRcKG-TMo" frameborder="0" allowfullscreen></iframe>
+
 #Lecture Notes
 
 ##What is User Testing?
