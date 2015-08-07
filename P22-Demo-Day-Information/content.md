@@ -8,3 +8,5 @@ slug: demo-day-information
 <embed src="https://s3.amazonaws.com/mgwu-misc/SA2015/LectureSlides/DemoDayBayArea.pdf" width="500" height="375" type='application/pdf'>
 
 #NYC
+
+<embed src="https://s3.amazonaws.com/mgwu-misc/SA2015/LectureSlides/DemoNYC.pdf" width="500" height="375" type='application/pdf'>
